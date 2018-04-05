@@ -5,8 +5,10 @@ melhorar seu visual e sua navegação.
 Agora precisamos ver por outras perspectivas, e por isso **estamos desafiando você a fazer a participar da construção
 do novo DESIGN!**
 
+|  | Data
+------------ | -------------
 Ínicio | 05/04/2018
-Término | --/--/----
+Término | 20/04/2018
 
 
 ## Instruções
