@@ -8,3 +8,7 @@ do novo DESIGN!**
 ##Instruções
 * O layout pode ser prototipado em qualquer plataforma, desde um photoshop até um paint
 * Assim que terminar faça um **pull request** nesse repositório tendo uma pasta com seu nome e as imagens(PNG, JPGE, GIF...) do seu projeto
+
+##LET'S GO FELAS
+###Step 1 - Status da avaliações
+![Kaba](prints/kaban.png)
