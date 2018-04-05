@@ -1,4 +1,4 @@
-# Redesing - Avaliação de desempenho
+# Redesign - Avaliação de desempenho
 A avaliação de desempenho foi criada a cerca de um ano, e após ver seu uso em casos reais, percebemos que dá para 
 melhorar seu visual e sua navegação.
 
