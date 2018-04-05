@@ -11,4 +11,17 @@ do novo DESIGN!**
 
 ## LET'S GO FELAS
 ### Step 1 - Status da avaliações
-![Kaba](prints/kaban.png)
+Aqui temos a tela onde é mostrado o status de todas avaliações, lembrando que ela é acessada
+por 3 pessoas diferentes, o colaborador(vê apenas seu status), o superior vê a sua avalição e de todos os colaboradores
+pelo qual ele é responsável, e o último a diretoria vê o status de todos.
+![Kaban](prints/kaban.png)
+
+### Step 2 - Ficha de avaliação
+Aqui é onde realizamos as avaliações. Temos um range de notas(de 1 a 10) e os itens a serem avalidos, além de podermos acompanhar todo
+o processo da avaliação, assim que as notas são preenchidas temos que concluí-las apontando nos aspectos positivos e negativos.
+![Kaban](prints/ficha.png)
+
+### Step 3 - Conclusão da avaliação
+Aqui é onde conseguimos ver o resultado da avalição com médias e tudo que foi falado na avaliação
+![Kaban](prints/conclusao.png)
+
